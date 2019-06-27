@@ -1,0 +1,20 @@
+C:\Users\dac\source\repos\Calculator\CalMain\bin\Debug\CalMain.exe.config
+C:\Users\dac\source\repos\Calculator\CalMain\bin\Debug\CalMain.exe
+C:\Users\dac\source\repos\Calculator\CalMain\bin\Debug\CalMain.pdb
+C:\Users\dac\source\repos\Calculator\CalMain\bin\Debug\Calculator.dll
+C:\Users\dac\source\repos\Calculator\CalMain\bin\Debug\Calculator.pdb
+C:\Users\dac\source\repos\Calculator\CalMain\obj\Debug\CalMain.csprojAssemblyReference.cache
+C:\Users\dac\source\repos\Calculator\CalMain\obj\Debug\CalMain.csproj.CoreCompileInputs.cache
+C:\Users\dac\source\repos\Calculator\CalMain\obj\Debug\CalMain.csproj.CopyComplete
+C:\Users\dac\source\repos\Calculator\CalMain\obj\Debug\CalMain.exe
+C:\Users\dac\source\repos\Calculator\CalMain\obj\Debug\CalMain.pdb
+E:\nam adjava\dot_net\Calculator\CalMain\bin\Debug\CalMain.exe.config
+E:\nam adjava\dot_net\Calculator\CalMain\bin\Debug\CalMain.exe
+E:\nam adjava\dot_net\Calculator\CalMain\bin\Debug\CalMain.pdb
+E:\nam adjava\dot_net\Calculator\CalMain\bin\Debug\Calculator.dll
+E:\nam adjava\dot_net\Calculator\CalMain\bin\Debug\Calculator.pdb
+E:\nam adjava\dot_net\Calculator\CalMain\obj\Debug\CalMain.csprojAssemblyReference.cache
+E:\nam adjava\dot_net\Calculator\CalMain\obj\Debug\CalMain.csproj.CoreCompileInputs.cache
+E:\nam adjava\dot_net\Calculator\CalMain\obj\Debug\CalMain.csproj.CopyComplete
+E:\nam adjava\dot_net\Calculator\CalMain\obj\Debug\CalMain.exe
+E:\nam adjava\dot_net\Calculator\CalMain\obj\Debug\CalMain.pdb

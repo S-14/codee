@@ -1,0 +1,10 @@
+C:\Users\dac\source\repos\Calculator\Calculator\bin\Debug\Calculator.dll
+C:\Users\dac\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dac\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dac\source\repos\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\dac\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\nam adjava\dot_net\Calculator\Calculator\bin\Debug\Calculator.dll
+E:\nam adjava\dot_net\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\nam adjava\dot_net\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\nam adjava\dot_net\Calculator\Calculator\obj\Debug\Calculator.dll
+E:\nam adjava\dot_net\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,26 @@
+C:\Users\dac\source\repos\Calculator\CalculatorForms\bin\Debug\CalculatorForms.exe.config
+C:\Users\dac\source\repos\Calculator\CalculatorForms\bin\Debug\CalculatorForms.exe
+C:\Users\dac\source\repos\Calculator\CalculatorForms\bin\Debug\CalculatorForms.pdb
+C:\Users\dac\source\repos\Calculator\CalculatorForms\bin\Debug\Calculator.dll
+C:\Users\dac\source\repos\Calculator\CalculatorForms\bin\Debug\Calculator.pdb
+C:\Users\dac\source\repos\Calculator\CalculatorForms\obj\Debug\CalculatorForms.csprojAssemblyReference.cache
+C:\Users\dac\source\repos\Calculator\CalculatorForms\obj\Debug\CalculatorForms.Form1.resources
+C:\Users\dac\source\repos\Calculator\CalculatorForms\obj\Debug\CalculatorForms.Properties.Resources.resources
+C:\Users\dac\source\repos\Calculator\CalculatorForms\obj\Debug\CalculatorForms.csproj.GenerateResource.cache
+C:\Users\dac\source\repos\Calculator\CalculatorForms\obj\Debug\CalculatorForms.csproj.CoreCompileInputs.cache
+C:\Users\dac\source\repos\Calculator\CalculatorForms\obj\Debug\CalculatorForms.csproj.CopyComplete
+C:\Users\dac\source\repos\Calculator\CalculatorForms\obj\Debug\CalculatorForms.exe
+C:\Users\dac\source\repos\Calculator\CalculatorForms\obj\Debug\CalculatorForms.pdb
+E:\nam adjava\dot_net\Calculator\CalculatorForms\bin\Debug\CalculatorForms.exe.config
+E:\nam adjava\dot_net\Calculator\CalculatorForms\bin\Debug\CalculatorForms.exe
+E:\nam adjava\dot_net\Calculator\CalculatorForms\bin\Debug\CalculatorForms.pdb
+E:\nam adjava\dot_net\Calculator\CalculatorForms\bin\Debug\Calculator.dll
+E:\nam adjava\dot_net\Calculator\CalculatorForms\bin\Debug\Calculator.pdb
+E:\nam adjava\dot_net\Calculator\CalculatorForms\obj\Debug\CalculatorForms.csprojAssemblyReference.cache
+E:\nam adjava\dot_net\Calculator\CalculatorForms\obj\Debug\CalculatorForms.Form1.resources
+E:\nam adjava\dot_net\Calculator\CalculatorForms\obj\Debug\CalculatorForms.Properties.Resources.resources
+E:\nam adjava\dot_net\Calculator\CalculatorForms\obj\Debug\CalculatorForms.csproj.GenerateResource.cache
+E:\nam adjava\dot_net\Calculator\CalculatorForms\obj\Debug\CalculatorForms.csproj.CoreCompileInputs.cache
+E:\nam adjava\dot_net\Calculator\CalculatorForms\obj\Debug\CalculatorForms.csproj.CopyComplete
+E:\nam adjava\dot_net\Calculator\CalculatorForms\obj\Debug\CalculatorForms.exe
+E:\nam adjava\dot_net\Calculator\CalculatorForms\obj\Debug\CalculatorForms.pdb

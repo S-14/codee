@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register For Admin</h2>
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+<p>
+    <label>Email</label>
+    <input name="Email" type="email" />
+</p>
+<p>
+    <label>Password</label>
+    <input name="Password" />
+</p>
+    <p>
+        <input type="submit" value="Register"/>
+    </p>
+}
+
